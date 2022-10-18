@@ -1,0 +1,170 @@
+[
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+        "correct_answer": "Key",
+        "incorrect_answers": [
+            "Sword",
+            "Pen",
+            "Cellphone"
+        ],
+        "answers": [
+            "Key",
+            "Cellphone",
+            "Pen",
+            "Sword"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is &quot;dabbing&quot;?",
+        "correct_answer": "A dance",
+        "incorrect_answers": [
+            "A medical procedure",
+            "A sport",
+            "A language"
+        ],
+        "answers": [
+            "A dance",
+            "A language",
+            "A sport",
+            "A medical procedure"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ],
+        "answers": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "On average, Americans consume 100 pounds of what per second?",
+        "correct_answer": "Chocolate",
+        "incorrect_answers": [
+            "Potatoes",
+            "Donuts",
+            "Cocaine"
+        ],
+        "answers": [
+            "Chocolate",
+            "Cocaine",
+            "Donuts",
+            "Potatoes"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the name of Poland in Polish?",
+        "correct_answer": "Polska",
+        "incorrect_answers": [
+            "Pupcia",
+            "Polszka",
+            "P&oacute;land"
+        ],
+        "answers": [
+            "P&oacute;land",
+            "Polska",
+            "Polszka",
+            "Pupcia"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was the soft drink Pepsi originally introduced as?",
+        "correct_answer": "Brad&#039;s Drink",
+        "incorrect_answers": [
+            "Pepsin Pop",
+            "Carolina Cola",
+            "Pepsin Syrup"
+        ],
+        "answers": [
+            "Pepsin Pop",
+            "Carolina Cola",
+            "Pepsin Syrup",
+            "Brad&#039;s Drink"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "Haggis is traditionally ate on Burns Night.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ],
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+        "correct_answer": "Horse",
+        "incorrect_answers": [
+            "Weave",
+            "Guitar",
+            "Boat"
+        ],
+        "answers": [
+            "Horse",
+            "Guitar",
+            "Weave",
+            "Boat"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "Vietnam&#039;s national flag is a red star in front of a yellow background.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ],
+        "answers": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The Flag of the European Union has how many stars on it?",
+        "correct_answer": "12",
+        "incorrect_answers": [
+            "10",
+            "14",
+            "16"
+        ],
+        "answers": [
+            "12",
+            "10",
+            "16",
+            "14"
+        ]
+    }
+]
